@@ -1,0 +1,7 @@
+Employee ID:1302
+Employee Name     :Shweta Gupta
+Father's Name     :Vijay Gupta
+Employee Contact  :9623481927
+Email Information :shweta@gmail.com
+Employee position :Engineer
+Employee Salary   :20000
